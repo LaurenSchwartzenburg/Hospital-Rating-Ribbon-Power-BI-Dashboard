@@ -44,7 +44,7 @@ The core visual is a Power BI Ribbon Chart, selected for its aesthetic and abili
 
 Zoom Slider: Allows viewers to explore rating distributions interactively
 
-Screen Recordings: This project features both versions as short mp4 demos here
+Screen Recordings: This project features both versions as short videos via Vimeo links
 
 ---
 
@@ -54,5 +54,6 @@ This project serves as both a technical showcase and a creative experiment in ma
 
 -	How Power BI can merge design and analytics
 -	The impact of visual theme selection on stakeholder engagement
+-	How a single dashboard can provide different stakeholders with the specific insights they need
 -	A reusable template for future healthcare or satisfaction-based dashboards
 
